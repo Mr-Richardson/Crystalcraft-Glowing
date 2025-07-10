@@ -7,4 +7,4 @@ How to use:
 - Install the [Crystalcraft Unlimited mod]([https://modrinth.com/mod/crystalcraft-unlimited/changelog](https://modrinth.com/mod/crystalcraft-unlimited/changelog))
 - Install [this](https://modrinth.com/project/crystalcraft-glowing/versions) texture pack.
 
-At the moment all blocks, entities and some items are supported. Armor is also planned, although it will only work with shaders or Optifine.
+At the moment all blocks, entities and some items are supported. Armor is also planned, although it will only work with shaders that support PBR or Optifine.
