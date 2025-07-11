@@ -1,7 +1,7 @@
 # Crystalcraft-Glowing
-This texture pack adds emissive textures to the textures of the Crystalcraft Unlimited mod. This means that most blocks, like ores, glow.
+This texture pack adds emissive textures to the textures of the Crystalcraft Unlimited mod. This means that many blocks, like ores, glow.
 
-How to use:
+## How to use:
 
 - Install [Continuity](https://modrinth.com/mod/continuity/versions) (and [ETF](https://modrinth.com/mod/entitytexturefeatures) )(recommended) or [optifine]([https://optifine.net/downloads](https://optifine.net/downloads)).
 - Install the [Crystalcraft Unlimited mod]([https://modrinth.com/mod/crystalcraft-unlimited/changelog](https://modrinth.com/mod/crystalcraft-unlimited/changelog))
