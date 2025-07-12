@@ -8,3 +8,5 @@ This texture pack adds emissive textures to the textures of the Crystalcraft Unl
 - Install [this](https://modrinth.com/project/crystalcraft-glowing/versions) texture pack.
 
 At the moment all blocks, entities and some items are supported. Armor is also planned, although it will only work with shaders that support PBR or Optifine.
+
+If you find any textures that I forgot or that you think should glow differently, please open an issue.
