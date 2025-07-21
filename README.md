@@ -7,7 +7,7 @@ This texture pack adds emissive textures to the textures of the Crystalcraft Unl
 - Install the [Crystalcraft Unlimited mod]([https://modrinth.com/mod/crystalcraft-unlimited/changelog](https://modrinth.com/mod/crystalcraft-unlimited/changelog))
 - Install [this](https://modrinth.com/project/crystalcraft-glowing/versions) texture pack.
 
-At the moment all blocks, entities and some items are supported. Armor is also planned, although it will only work with shaders that support PBR or Optifine.
+At the moment **all blocks, entities and some items** are supported. Armor is also planned, although it will only work with shaders that support PBR or Optifine.
 
 Feel free to modify this pack or include it in your modpack.
 
